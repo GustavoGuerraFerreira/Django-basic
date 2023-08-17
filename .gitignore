@@ -1,0 +1,34 @@
+# Arquivos de configuração do ambiente
+.env
+*.pyc
+*.pyo
+__pycache__/
+
+# Arquivos de mídia carregados
+media/
+
+# Arquivos de banco de dados SQLite
+*.sqlite3
+
+# Arquivos estáticos coletados
+staticfiles/
+
+# Logs e arquivos temporários
+*.log
+*.swp
+*~
+
+# Ambientes virtuais
+venv/
+.env/
+
+# Arquivos gerados pelo IDE
+.vscode/
+.idea/
+
+# Arquivos de configuração do sistema (por exemplo, sistema operacional)
+.DS_Store
+Thumbs.db
+
+# Arquivos de backup de texto
+*.bak
